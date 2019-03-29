@@ -1,0 +1,45 @@
+
+h1.name{
+    text-align: center;
+    color:white;
+    background: gray;
+    border-radius: 5px;
+}
+
+div.cont{
+text-align:center;
+
+}
+
+p.prip{
+    color:white;
+    text-align: center;
+}
+h2.titseg{
+    color:white;
+    text-transform: uppercase;
+    text-align: center;
+    background: gray;
+    border-radius: 5px;
+    margin-left: 30%;
+    margin-right: 30%;
+
+}
+p{
+    
+    background: gray;
+    border: 5px solid gray;
+    padding: 30px;
+    margin-left: 20%;
+    margin-right: 20%;
+    
+    border-radius: 20px;
+    
+   
+
+    
+}
+
+
+
+    
